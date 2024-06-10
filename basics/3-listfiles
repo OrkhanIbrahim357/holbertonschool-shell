@@ -1,3 +1,2 @@
-
 #!/bin/bash
-the "ls -l" option
+ls -l
